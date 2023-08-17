@@ -59,9 +59,9 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // arbitrum goerli
   [421613]: {
-    router: '0xA33cC92D9B37a8CF7430e4B017ab38905698a797',
+    router: '0x6B70e96b1EbE091E35035DE0626b252033fA5935',
     weth: '0xe39Ab88f8A4777030A534146A9Ca3B52bd5D43A3',
-    creationBlock: 34760481,
+    creationBlock: 34768627,
   },
   // celo
   [42220]: {
